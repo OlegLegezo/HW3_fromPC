@@ -5,6 +5,7 @@ git checkout text_formating
 git checkout lists
 ## Изображения
 ## Ссылки
+git checkout links
 ## Таблицы
 ## Цитаты
 ## Заключения
