@@ -40,3 +40,4 @@ git checkout links
 ## Таблицы
 ## Цитаты
 ## Заключения
+git checkout allinall
